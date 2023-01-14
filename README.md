@@ -2,6 +2,8 @@
 
 I'm 22 yo and I'm doing my bachelor's degree in computer science.
 
+Most of the projects here are practices from my classes, nothing too complex or pretty, I will try to put more elaborate projects soon.
+
 <!--
 **sarahfso/sarahfso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
