@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 22 yo and I'm doing my bachelor's degree in computer science.
+I'm 23 yo and I'm doing my bachelor's degree in computer science.
 
 Most of the projects here are practices from my classes, nothing too complex or pretty, I will try to put more elaborate projects soon.
 
