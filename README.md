@@ -1,6 +1,7 @@
-### Hi there 👋
+<img align="left" alt="Coding" width="1080" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRrNmVrbjl1Nmw5MmxzY2FjaWlvdmQyOHNudzIxZjI2ajFydnM1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/omtXcPqk9McwYDag7H/giphy.gif">
+-
 
-I'm 23 yo and I'm doing my bachelor's degree in computer science.
+#### I'm 23 yo and I'm doing my bachelor's degree in computer science.
 
 Most of the projects here are practices from my classes, nothing too complex or pretty, I will try to put more elaborate projects soon.
 
@@ -10,3 +11,5 @@ Most of the projects here are practices from my classes, nothing too complex or 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfso&layout=compact&border_radius=6&hide_title=true" />
 </a>
+
+
