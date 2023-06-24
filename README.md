@@ -4,4 +4,6 @@ I'm 23 yo and I'm doing my bachelor's degree in computer science.
 
 Most of the projects here are practices from my classes, nothing too complex or pretty, I will try to put more elaborate projects soon.
 
-![my gitHub stats](https://github-readme-stats.vercel.app/api?username=sarahfso&show_icons=true&theme=merko)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahfso&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfso&layout=compact)
