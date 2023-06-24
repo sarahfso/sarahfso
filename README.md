@@ -5,7 +5,7 @@
 
 Most of the projects here are practices from my classes, nothing too complex or pretty, I will try to put more elaborate projects soon.
 
-<div width="100%">
+<div width="100%" align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="135" width="auto" src="https://github-readme-stats.vercel.app/api?username=sarahfso&show_icons=true&theme=gotham&hide=prs,issues&border_radius=6&rank_icon=github&include_all_commits=true&hide_title=true" />
