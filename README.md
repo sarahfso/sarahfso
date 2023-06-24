@@ -5,11 +5,16 @@
 
 Most of the projects here are practices from my classes, nothing too complex or pretty, I will try to put more elaborate projects soon.
 
+
+<div width="100%">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="145" src="https://github-readme-stats.vercel.app/api?username=sarahfso&show_icons=true&theme=gotham&hide=prs,issues&border_radius=6&rank_icon=github&include_all_commits=true&hide_title=true" />
+  <img align="center" height="140" width="auto" src="https://github-readme-stats.vercel.app/api?username=sarahfso&show_icons=true&theme=gotham&hide=prs,issues&border_radius=6&rank_icon=github&include_all_commits=true&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfso&layout=compact&border_radius=6&hide_title=true" />
+  <img align="center" height="140" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfso&layout=compact&border_radius=6&hide_title=true" />
 </a>
+  
+</div>
 
 
